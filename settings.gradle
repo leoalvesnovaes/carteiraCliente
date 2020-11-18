@@ -1,0 +1,2 @@
+rootProject.name='CarteiraCliente'
+include ':app'
